@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Abhishektech2907 ,BCA graduated from MDU,rohtak ,persuing MBA in business analytics
+- 👀 I’m interested in analytics and i love to code in python and crearting databases in ms_sql
+- 🌱 I’m currently learning data analytics and improving in the field of analytics
+- 📫 How to reach me ... you can contact me  by mail  my id- abhishekthakur2907@gmail.com
